@@ -8,5 +8,5 @@ setup(
     author='So Uchida',
     author_email='s.aiueo32@gmail.com',
     install_requires=["torch", "torchvision"],
-    url='https://github.com/S-aiueo32/contextual_loss_pytorch',
+    url='https://github.com/top-5/contextual_loss_pytorch',
 )
